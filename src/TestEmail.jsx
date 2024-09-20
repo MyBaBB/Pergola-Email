@@ -85,7 +85,7 @@ Darker Variations
          </div>
          
       <p  className="text-center text-2xl  text-white mt-10">
-          <span className="block mt-[-.8rem] text-lime-400 text-sm
+          <span className="block mt-[-.9rem] text-lime-400 text-sm
           ">A Professional Gateway to Wordpress</span> 
           Welcome to the vibrant world of Tom Pergola!
           As a renowned artist, I create dynamic and captivating &apos;Assemblage Plastique&apos; sculptures that immortalize the everyday icons of our culture.
