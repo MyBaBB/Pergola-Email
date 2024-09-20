@@ -38,7 +38,7 @@ Darker Variations
              <span className="text-center   text-lime-500 font-LibreBaskerville-Bold">Test it Out</span>
             
             <div
-              className="relative flex m-auto mx-8 max-w-[600px] flex-col rounded-xl py-4 text-blue-950"
+              className="relative flex m-auto  max-w-[600px] flex-col rounded-xl py-4 text-blue-950"
               style={{
             border: "2px solid #e6b764",
             outline: "2px solid black",
@@ -67,14 +67,14 @@ Darker Variations
                
              
                 >
-         <div className="topSectionDvi relative m-auto -mt-20 mr-14 flex w-fit items-center justify-center rounded-2xl p-2"
+         <div className="topSectionDvi relative m-auto -mt-0 sm:-mt-10 md:-mt-20 mr-14 flex w-fit items-center justify-center rounded-2xl p-2"
                 style={{
                 background: "linear-gradient(to bottom, #cb993d, #886541)",
                 decoration: "none",
                 }}>
            <div className="relative m-auto  flex w-fit " >
               <div className="tomsWorld relative flex">
-                   <span className=" clip text-white text-2xl decoration-none hover:underline hover:text-yellow-500" >
+                   <span className=" clip text-white text-sm sm:text-2xl decoration-none hover:underline hover:text-yellow-500" >
                    Enter Tom&apos;s World
                    </span>
                   
@@ -84,8 +84,8 @@ Darker Variations
            
          </div>
          
-      <p  className="text-center text-2xl  text-white mt-10">
-          <span className="block mt-[-.68rem] text-lime-400 text-sm
+      <p  className="text-center text-sm sm:text-2xl  text-white mt-10 p-4">
+          <span className="block mt-[-.68rem] text-lime-400 text-sm sm:text-xl
           ">A Professional Gateway to Wordpress</span> 
           Welcome to the vibrant world of Tom Pergola!
           As a renowned artist, I create dynamic and captivating &apos;Assemblage Plastique&apos; sculptures that immortalize the everyday icons of our culture.
