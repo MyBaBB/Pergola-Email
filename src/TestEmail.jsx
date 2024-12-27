@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from "react";
 import Copyright from "./Copyright";
-import WindowHistory from "./components/WindowHistoryButton2";
+ 
  
 const EmailTemplate = () => (
   <div >
@@ -33,7 +33,12 @@ Darker Variations
 #4f454a (25% darker)
 #3b3437 (50% darker)
 #272225 (75% darker) */}
-<WindowHistory />
+<a href="https://custom.email.mybabb.com/">
+            <div className="absolute  font-Itim-Regular left-4 hover:opacity-70 top-4 p-1 px-2 rounded-2xl
+             bg-blue-950 text-white border-[.5px] border-white">
+               To Samples
+            </div>
+</a>         
             <div className="  relative flex pb-4  flex-col rounded-xl max-w-[620px] m-auto ">
             
              <span className="text-center   text-lime-500 font-LibreBaskerville-Bold">Example Email Made for Tom</span>
